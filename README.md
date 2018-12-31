@@ -12,4 +12,4 @@ In this repostitiory you will find outlines of each strategy and additional elct
 <br>
 The Centre for Higher Education Research, Policy & Practice (CHERPP) is an international collaborative project hosted by the University of Ontario Institute of Technology (UOIT), Durham College, and TU Dublin. A Memorandum of Understanding to establish CHERPP was signed by all three institutions on November 2, 2016. Association with CHERPP is open to all researchers and practitioners in higher education. https://cherpp.ca/
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/. Additional resources can be found at: http://bit.ly/CHERPPhandbooks
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/. Additional resources can be found at: https://shaunferns.github.io/CHERPP/
